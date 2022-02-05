@@ -47,30 +47,333 @@ Plagiarism—use of another's intellectual work without acknowledgement—is a s
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introductions | &nbsp; |
-| 2 | Defoe, Daniel. "_Moll Flanders_." | &nbsp; |
-| 3 | Defoe, Daniel. "_Moll Flanders_." (cont.) | &nbsp; |
-| 4 | Defoe, Daniel. "_Moll Flanders_." (cont.) | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} Early Novels posted {{< br >}}{{< br >}} Burney, Frances. "_Evelina_." Volume I {{< br >}}{{< br >}}  | &nbsp; |
-| 6 | Burney, Frances. "_Evelina_." Volume II | &nbsp; |
-| 7 | Burney, Frances. "_Evelina_." Volume III | &nbsp; |
-| 8 | Austen, Jane. "_Pride & Prejudice_." Volume I | &nbsp; |
-| 9 | Austen, Jane. "_Pride & Prejudice_." Volume II | &nbsp; |
-| 10 | Austen, Jane. "_Pride & Prejudice_." Volume III | &nbsp; |
-| 11 | Gaskell, Elizabeth. "_Mary Barton_." Chapters 1-10 | &nbsp; |
-| 12 | Gaskell, Elizabeth. "_Mary Barton_." Chapters 11-23 | &nbsp; |
-| 13 | Gaskell, Elizabeth. "_Mary Barton_." Chapters 24-38 | "Early Novels" essay assignment due |
-| 14 | Eliot, George. "_Adam Bede_." Book 1 | &nbsp; |
-| 15 | Eliot, George. "_Adam Bede_." Books 2-4 | &nbsp; |
-| 16 | Eliot, George. "_Adam Bede_." Books 5-6 | &nbsp; |
-| 17 |  {{< br >}}{{< br >}} 19th-20th Century Novels posted {{< br >}}{{< br >}} Braddon, Mary Elizabeth. "_Lady Audley's Secret_." Volume I {{< br >}}{{< br >}}  | &nbsp; |
-| 18 | Braddon, Mary Elizabeth. "_Lady Audley's Secret_." Volume II | &nbsp; |
-| 19 | Braddon, Mary Elizabeth. "_Lady Audley's Secret_." Volume III | &nbsp; |
-| 20 | Hardy, Thomas. "_Tess of the D'Urbervilles_." Phases 1-3 | &nbsp; |
-| 21 | Hardy, Thomas. "_Tess of the D'Urbervilles_." Phases 4-6 | &nbsp; |
-| 22 | Hardy, Thomas. "_Tess of the D'Urbervilles_." Phase 7 | &nbsp; |
-| 23 | Woolf, Virginia. "_Mrs Dalloway_." pp. 3-102 | &nbsp; |
-| 24 | Woolf, Virginia. "_Mrs Dalloway_." pp. 102-194 | &nbsp; |
-| 25 | Woolf, Virginia. "_Mrs Dalloway_." | "19th-20th Century Novels" essay assignment due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introductions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Defoe, Daniel. "_Moll Flanders_."
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Defoe, Daniel. "_Moll Flanders_." (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Defoe, Daniel. "_Moll Flanders_." (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Early Novels posted
+
+Burney, Frances. "_Evelina_." Volume I
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Burney, Frances. "_Evelina_." Volume II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Burney, Frances. "_Evelina_." Volume III
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Austen, Jane. "_Pride & Prejudice_." Volume I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Austen, Jane. "_Pride & Prejudice_." Volume II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Austen, Jane. "_Pride & Prejudice_." Volume III
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Gaskell, Elizabeth. "_Mary Barton_." Chapters 1-10
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Gaskell, Elizabeth. "_Mary Barton_." Chapters 11-23
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Gaskell, Elizabeth. "_Mary Barton_." Chapters 24-38
+{{< tdclose >}}
+{{< tdopen >}}
+"Early Novels" essay assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Eliot, George. "_Adam Bede_." Book 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Eliot, George. "_Adam Bede_." Books 2-4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Eliot, George. "_Adam Bede_." Books 5-6
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+19th-20th Century Novels posted
+
+Braddon, Mary Elizabeth. "_Lady Audley's Secret_." Volume I
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Braddon, Mary Elizabeth. "_Lady Audley's Secret_." Volume II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Braddon, Mary Elizabeth. "_Lady Audley's Secret_." Volume III
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Hardy, Thomas. "_Tess of the D'Urbervilles_." Phases 1-3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Hardy, Thomas. "_Tess of the D'Urbervilles_." Phases 4-6
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Hardy, Thomas. "_Tess of the D'Urbervilles_." Phase 7
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Woolf, Virginia. "_Mrs Dalloway_." pp. 3-102
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Woolf, Virginia. "_Mrs Dalloway_." pp. 102-194
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Woolf, Virginia. "_Mrs Dalloway_."
+{{< tdclose >}}
+{{< tdopen >}}
+"19th-20th Century Novels" essay assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

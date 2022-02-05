@@ -28,29 +28,261 @@ Woolf, Virginia. _Mrs. Dalloway_. New York, NY: Harcourt Brace Jovanovich, 1990.
 {{< anchor "Readings_by_Session" >}}{{< /anchor >}}Readings by Session
 ----------------------------------------------------------------------
 
-| SES # | AUTHORS | READINGS |
-| --- | --- | --- |
-| 2 | Defoe, Daniel | _Moll Flanders_, first third of book. |
-| 3 | _Moll Flanders_, second third. |
-| 4 | _Moll Flanders_, last third. |
-| 5 | Burney, Frances | _Evelina_, volume I. |
-| 6 | _Evelina_, volume II. |
-| 7 | _Evelina_, volume III. |
-| 8 | Austen, Jane | _Pride & Prejudice_, volume I. |
-| 9 | _Pride & Prejudice_, volume II. |
-| 10 | _Pride & Prejudice_, volume III. |
-| 11 | Gaskell, Elizabeth | _Mary Barton_, chapters 1-10. |
-| 12 | _Mary Barton_, chapters 11-23. |
-| 13 | _Mary Barton_, chapters 24-38. |
-| 14 | Eliot, George | _Adam Bede_, book 1. |
-| 15 | _Adam Bede_, books 2-4. |
-| 16 | _Adam Bede_, books 5-6. |
-| 17 | Braddon, Mary Elizabeth | _Lady Audley's Secret_, volume I. |
-| 18 | _Lady Audley's Secret_, volume II. |
-| 19 | _Lady Audley's Secret_, volume III. |
-| 20 | Hardy, Thomas | _Tess of the D'Urbervilles_, phases 1-3. |
-| 21 | _Tess of the D'Urbervilles_, phases 4-6. |
-| 22 | _Tess of the D'Urbervilles_, phase 7. |
-| 23 | Woolf, Virginia | _Mrs Dalloway_, pp. 3-102. |
-| 24 | _Mrs Dalloway_, pp. 102-194. |
-| 25 | _Mrs Dalloway_, pp. 194-end.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+AUTHORS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Defoe, Daniel
+{{< tdclose >}}
+{{< tdopen >}}
+_Moll Flanders_, first third of book.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Moll Flanders_, second third.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Moll Flanders_, last third.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Burney, Frances
+{{< tdclose >}}
+{{< tdopen >}}
+_Evelina_, volume I.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_Evelina_, volume II.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_Evelina_, volume III.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Austen, Jane
+{{< tdclose >}}
+{{< tdopen >}}
+_Pride & Prejudice_, volume I.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_Pride & Prejudice_, volume II.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+_Pride & Prejudice_, volume III.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Gaskell, Elizabeth
+{{< tdclose >}}
+{{< tdopen >}}
+_Mary Barton_, chapters 1-10.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+_Mary Barton_, chapters 11-23.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+_Mary Barton_, chapters 24-38.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Eliot, George
+{{< tdclose >}}
+{{< tdopen >}}
+_Adam Bede_, book 1.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_Adam Bede_, books 2-4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+_Adam Bede_, books 5-6.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Braddon, Mary Elizabeth
+{{< tdclose >}}
+{{< tdopen >}}
+_Lady Audley's Secret_, volume I.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+_Lady Audley's Secret_, volume II.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+_Lady Audley's Secret_, volume III.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Hardy, Thomas
+{{< tdclose >}}
+{{< tdopen >}}
+_Tess of the D'Urbervilles_, phases 1-3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+_Tess of the D'Urbervilles_, phases 4-6.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+_Tess of the D'Urbervilles_, phase 7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Woolf, Virginia
+{{< tdclose >}}
+{{< tdopen >}}
+_Mrs Dalloway_, pp. 3-102.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+_Mrs Dalloway_, pp. 102-194.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+_Mrs Dalloway_, pp. 194-end.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
